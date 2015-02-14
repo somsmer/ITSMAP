@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Depolarized Panda</string>
+    <string name="medication_string">Medications</string>
+    <string name="action_settings">Settings</string>
+    //------------Common strings------------------//
+    <string name="save_btn">Save</string>
+    <string name="back_btn">Back</string>
+    <string name="cancel_btn">Cancel</string>
+    //------------Main activity strings------------------//
+    <string name="mood_btn">Mood</string>
+    <string name="medication_btn">Medication</string>
+    <string name="add_medication_btn">Add Medication</string>
+    <string name="note_btn">Note</string>
+    <string name="history_btn">See history</string>
+    <string name="savetodatabase_btn">Save</string>
+
+    //------------ Mood spinner strings------------------//
+    <string-array name="moodsArray">
+        <item>Manic: Very severely (clinic)</item>
+        <item>Manic: Severely</item>
+        <item>Manic: medium</item>
+        <item>Manic: slightly</item>
+        <item>Manic: balanced</item>
+        <item>Depressed: balanced</item>
+        <item>Depressed: medium</item>
+        <item>Depressed: severely</item>
+        <item>Depressed: very severely (clinic)</item>
+           </string-array>
+    <string name="mood">Mood</string>
+    //------------ Note activity strings------------------//
+    //------------ History strings------------------//
+    <string name="startdate">Start date</string>
+    <string name="enddate">End date</string>
+    <string name="showhistory">Show History</string>
+    <string name="moodTitle"><b>Mood</b></string>
+    <string name="medicineTitle"><b>Medicine</b></string>
+    <string name="noteTitle"><b>Note</b></string>
+    //------------ Medication activity strings------------------//
+    <string name="title_activity_mood">MoodActivity</string>
+    <string name="title_activity_medication">MedicationActivity</string>
+    <string name="title_activity_choose_history">ChooseHistoryActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_history">HistoryActivity</string>
+    <string name="newMedication">Add New Medication</string>
+
+</resources>

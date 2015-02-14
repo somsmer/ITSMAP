@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="CustomTheme" parent="android:Theme.Holo">
+
+    <item name="android:editTextBackground">@drawable/customtheme_edit_text_holo_dark</item>
+
+    <item name="android:textColorHighlight">#995e7974</item>
+    <item name="android:textSelectHandleLeft">@drawable/customtheme_text_select_handle_left</item>
+    <item name="android:textSelectHandleRight">@drawable/customtheme_text_select_handle_right</item>
+    <item name="android:textSelectHandle">@drawable/customtheme_text_select_handle_middle</item>
+
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewCustomTheme</item>
+
+    <item name="android:buttonStyle">@style/ButtonCustomTheme</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonCustomTheme</item>
+
+    <item name="android:dropDownSpinnerStyle">@style/SpinnerCustomTheme</item>
+
+    <item name="android:buttonStyleToggle">@style/ToggleCustomTheme</item>
+
+    <item name="android:listChoiceBackgroundIndicator">@drawable/customtheme_list_selector_holo_dark</item>
+
+    <item name="android:activatedBackgroundIndicator">@drawable/customtheme_activated_background_holo_dark</item>
+
+  </style>
+
+</resources>
